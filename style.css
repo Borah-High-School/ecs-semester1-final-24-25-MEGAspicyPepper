@@ -100,9 +100,9 @@ p {
 
 .business-item {
   padding: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #ffcbcb;
   margin-bottom: 10px;
-  background-color: #fff;
+  background-color: #f8c8c8;
   border-radius: 4px;
 }
 
@@ -114,7 +114,7 @@ p {
 .guide-section p {
   font-size: 1.2em;
   line-height: 1.6;
-  color: #555;
+  color: #ff5757;
 }
 
 ol {
@@ -130,7 +130,7 @@ li {
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #333;
-  color: white;
-  border-top: 2px solid #ddd;
+  background-color: #4d1414;
+  color: rgb(253, 183, 183);
+  border-top: 2px solid #ffc5c5;
 }
