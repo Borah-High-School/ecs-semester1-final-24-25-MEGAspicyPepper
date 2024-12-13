@@ -14,3 +14,20 @@
     border-radius: 250px;
     color: darkgreen;
   }  
+  .page1{
+    background-color: #ffb1d3;
+    border-style: groove;
+    border-color: deeppink;
+    font-size: 17px;
+    border-radius: 250px;
+    color: #910049;
+  }
+  .page2{
+    background-color: #ffeaab; 
+    border-style: groove;
+    border-color: #c2c200;
+    font-size: 17px;
+    border-radius: 250px;
+    color: #5f5f00;
+  }
+  
