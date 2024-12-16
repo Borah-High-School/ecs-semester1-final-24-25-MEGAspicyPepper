@@ -1,38 +1,38 @@
 .page3{
-    background-color: rgb(182, 119, 119);
-    border-style: groove;
-    border-color: rgb(150, 38, 38);
-    font-size: 17px;
-    border-radius: 250px;
-    color: rgb(100, 0, 0);
-  }
-  .page4{
-    background-color: rgb(147, 188, 143);
-    border-style: groove;
-    border-color: forestgreen;
-    font-size: 17px;
-    border-radius: 250px;
-    color: darkgreen;
-  }  
-  .page1{
-    background-color: #ffb1d3;
-    border-style: groove;
-    border-color: deeppink;
-    font-size: 17px;
-    border-radius: 250px;
-    color: #910049;
-  }
-  .page2{
-    background-color: #ffeaab; 
-    border-style: groove;
-    border-color: #c2c200;
-    font-size: 17px;
-    border-radius: 250px;
-    color: #5f5f00;
-  }
-  
-  /* index 3*/
-  /* Basic page styles */
+  background-color: rgb(182, 119, 119);
+  border-style: groove;
+  border-color: rgb(150, 38, 38);
+  font-size: 17px;
+  border-radius: 250px;
+  color: rgb(100, 0, 0);
+}
+.page4{
+  background-color: rgb(147, 188, 143);
+  border-style: groove;
+  border-color: forestgreen;
+  font-size: 17px;
+  border-radius: 250px;
+  color: darkgreen;
+}  
+.page1{
+  background-color: #ffb1d3;
+  border-style: groove;
+  border-color: deeppink;
+  font-size: 17px;
+  border-radius: 250px;
+  color: #910049;
+}
+.page2{
+  background-color: #ffeaab; 
+  border-style: groove;
+  border-color: #c2c200;
+  font-size: 17px;
+  border-radius: 250px;
+  color: #5f5f00;
+}
+
+/* index 3*/
+/* Basic page styles */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -54,7 +54,7 @@ header {
 h1{
   font-size: 2.5em;
   margin: 0;
-  
+
 }
 
 p {
@@ -90,20 +90,12 @@ p {
 }
 
 .search-section button:hover {
-  background-color: #027712;
+  background-color: #027705;
 }
 
 /* Business List Styling */
 .business-list {
   margin-bottom: 30px;
-}
-
-.business-item {
-  padding: 10px;
-  border: 1px solid #ffcbcb;
-  margin-bottom: 10px;
-  background-color: #f8c8c8;
-  border-radius: 4px;
 }
 
 /* Guide Section Styling */
@@ -114,7 +106,7 @@ p {
 .guide-section p {
   font-size: 1.2em;
   line-height: 1.6;
-  color: #ff5757;
+  color: #000000;
 }
 
 ol {
@@ -130,7 +122,7 @@ li {
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #4d1414;
-  color: rgb(253, 183, 183);
-  border-top: 2px solid #ffc5c5;
+  background-color: #000000;
+  color: rgb(163, 0, 0);
+  border-top: 2px solid #000000;
 }
